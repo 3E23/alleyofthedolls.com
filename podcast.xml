@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alley of the Dolls</title>
+    <description>Just two Chicago friends talking trash.</description>
+    <link>https://alleyofthedolls.com</link>
+    <language>en</language>
+    <copyright>&#xA9; 2016-2017 Alley of the Dolls</copyright>
+    <atom:link href="https://alleyofthedolls.com/podcast.xml" rel="self" type="application/rss+xml"/>
+
+    <itunes:author>Sparkle and Chi</itunes:author>
+    <itunes:summary>Two Chicago friends talking about all their private parts. We met in high school over twenty years ago. We record from a comfortable place. We're like a personal diary entry with other people's opinions and weird perspectives.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Alley of the Dolls</itunes:name>
+      <itunes:email>podcast@alleyofthedolls.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://alleyofthedolls.com/images/cover-art.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>true</itunes:explicit>
+
+    <!-- Episode 6: Family Rumble -->
+    <item>
+      <title>Family Rumble</title>
+      <description>Two Chicago friends ask, "What age did you turn?" and agree to blame it all on their siblings.</description>
+      <link>https://alleyofthedolls.com/episodes/family-rumble.html</link>
+      <guid>https://alleyofthedolls.com/episodes/family-rumble.html</guid>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://alleyofthedolls.com/audio/06-family-rumble.mp3" length="9291420" type="audio/mpeg"/>
+      <itunes:duration>18:08</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Episode 5: Horny Book Reader -->
+    <item>
+      <title>Horny Book Reader</title>
+      <description>Two Chicago friends ask each other about their bank accounts. Spank banks. You know we don't understand how real banks work.</description>
+      <link>https://alleyofthedolls.com/episodes/horny-book-reader.html</link>
+      <guid>https://alleyofthedolls.com/episodes/horny-book-reader.html</guid>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://alleyofthedolls.com/audio/05-horny-book-reader.mp3" length="6068579" type="audio/mpeg"/>
+      <itunes:duration>11:49</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Episode 4: Top Three Murders -->
+    <item>
+      <title>Top Three Murders</title>
+      <description>Two Chicago friends ponder "Who are the top three people most likely to murder me?" and ask "How do you mail a postcard to the FBI?"</description>
+      <link>https://alleyofthedolls.com/episodes/top-three-murders.html</link>
+      <guid>https://alleyofthedolls.com/episodes/top-three-murders.html</guid>
+      <pubDate>Thu, 12 Jan 2017 00:00:00 +0000</pubDate>
+      <enclosure url="https://alleyofthedolls.com/audio/04-top-three-murders.mp3" length="11969896" type="audio/mpeg"/>
+      <itunes:duration>22:46</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Episode 3: Charity Cage Match -->
+    <item>
+      <title>Charity Cage Match</title>
+      <description>If you had to fight to the death for a charitable cause, what would it be? According to the show notes, cancer unexpectedly loses this matchup.</description>
+      <link>https://alleyofthedolls.com/episodes/charity-cage-match.html</link>
+      <guid>https://alleyofthedolls.com/episodes/charity-cage-match.html</guid>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <enclosure url="https://alleyofthedolls.com/audio/03-charity-cage-match.mp3" length="9677839" type="audio/mpeg"/>
+      <itunes:duration>23:04</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Episode 2: Father John Misty -->
+    <item>
+      <title>Father John Misty</title>
+      <description>Two Chicago friends wonder, "How did you get your personality?" and decide Father John Misty had nothing to do with it.</description>
+      <link>https://alleyofthedolls.com/episodes/father-john-misty.html</link>
+      <guid>https://alleyofthedolls.com/episodes/father-john-misty.html</guid>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <enclosure url="https://alleyofthedolls.com/audio/02-father-john-misty.mp3" length="8546322" type="audio/mpeg"/>
+      <itunes:duration>16:41</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- Episode 1: Invisible Ghosty Cocks -->
+    <item>
+      <title>Invisible Ghosty Cocks</title>
+      <description>Would you kill Baby Hitler? Remarkably, it gets worse from there.</description>
+      <link>https://alleyofthedolls.com/episodes/invisible-ghosty-cocks.html</link>
+      <guid>https://alleyofthedolls.com/episodes/invisible-ghosty-cocks.html</guid>
+      <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+      <enclosure url="https://alleyofthedolls.com/audio/01-invisible-ghosty-cocks.mp3" length="10882084" type="audio/mpeg"/>
+      <itunes:duration>22:51</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
